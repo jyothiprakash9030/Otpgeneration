@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057014531499",
+    "project_id": "otp-generationjp",
+    "storage_bucket": "otp-generationjp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057014531499:android:dfcfc79109b858cae1beee",
+        "android_client_info": {
+          "package_name": "com.example.otpgenerations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQy3oK8xo8MPtaQc8HUa0IVH88mQKKsD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

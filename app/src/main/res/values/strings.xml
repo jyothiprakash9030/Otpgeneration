@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OtpGenerations</string>
+    <string name="otp_verfication">OTP Verfication</string>
+    <string name="we_will_send_you_an_one_time_otp_on_this_given_mobile_number">we will send you an one time otp on this given mobile number</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="_91">+91</string>
+    <string name="_9100850713">9100850713</string>
+    <string name="get_otp">Get Otp</string>
+    <string name="please_enter_the_otp_sent_to_you">Please Enter the OTP sent To You</string>
+    <string name="didn_t_receive_the_otp">Didn\'t receive the otp</string>
+    <string name="resend_otp_again">RESEND OTP AGAIN</string>
+    <string name="submit">Submit</string>
+</resources>
